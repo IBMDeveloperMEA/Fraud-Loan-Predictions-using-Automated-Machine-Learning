@@ -4,7 +4,7 @@
 - Login/Sign Up for [IBM Cloud](https://ibm.biz/MEA-DataAI) <br>
 - Hands-On [Guide]() <br>
 - [Slides](https://github.com/IBMDeveloperMEA/Fraud-Loan-Predictions-using-Automated-Machine-Learning/blob/main/FraudLoan-AutoAI-Slides.pdf) <br>
-- Workshop [Replay]() <br> <br>
+- Workshop [Replay]() <br>
 - Click [Here](https://ibm.biz/BdfMKX) to fill the survey (We really appreciate any feedback :D) <br>
 - Follow Our [Meetup Page](https://www.meetup.com/IBM-Cloud-MEA/) to get updates on our events <br>
 - Check [IBM Developer](https://developer.ibm.com/) to learn and explore a variety technologies and services that you're interested in <br>
@@ -320,7 +320,7 @@ Check the [ASL FAQ link](http://www.apache.org/foundation/license-faq.html#WhatD
 - Login/Sign Up for [IBM Cloud](https://ibm.biz/MEA-DataAI) <br>
 - Hands-On [Guide]() <br>
 - [Slides](https://github.com/IBMDeveloperMEA/Fraud-Loan-Predictions-using-Automated-Machine-Learning/blob/main/FraudLoan-AutoAI-Slides.pdf) <br>
-- Workshop [Replay]() <br> <br>
+- Workshop [Replay]() <br> 
 - Click [Here](https://ibm.biz/BdfMKX) to fill the survey (We really appreciate any feedback :D) <br>
 - Follow Our [Meetup Page](https://www.meetup.com/IBM-Cloud-MEA/) to get updates on our events <br>
 - Check [IBM Developer](https://developer.ibm.com/) to learn and explore a variety technologies and services that you're interested in <br>
