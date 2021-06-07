@@ -1,6 +1,6 @@
 # Fraud Loan Predictions using Automated Machine Learning
 
-# WORKSHOP RESOURCES
+# Workshop Resources
 - Login/Sign Up for [IBM Cloud](https://ibm.biz/MEA-DataAI) <br>
 - Hands-On [Guide]() <br>
 - [Slides]() <br>
@@ -306,7 +306,7 @@ This code pattern is licensed under the Apache Software License, Version 2.  Sep
 
 Check the [ASL FAQ link](http://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN) for more details
 
-# WORKSHOP RESOURCES
+# Workshop Resources
 - Login/Sign Up for [IBM Cloud](https://ibm.biz/MEA-DataAI) <br>
 - Hands-On [Guide]() <br>
 - [Slides]() <br>
