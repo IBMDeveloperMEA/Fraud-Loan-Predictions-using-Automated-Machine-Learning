@@ -1,4 +1,6 @@
 # Fraud Loan Predictions using Automated Machine Learning
+
+# WORKSHOP RESOURCES
 - Login/Sign Up for [IBM Cloud](https://ibm.biz/MEA-DataAI) <br>
 - Hands-On [Guide]() <br>
 - [Slides]() <br>
