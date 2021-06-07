@@ -3,7 +3,7 @@ This repo contains the assets used for a workshop where we use IBM's AutoAI serv
 
 # Create IBM Cloud Account
 
-Click [Here](https://ibm.biz/BdfMKE) to register for your IBM Cloud account. <br>
+Click [Here](https://ibm.biz/MEA-DataAI) to register for your IBM Cloud account. <br>
 
 There are 3 steps to create your account: <br>
 1- Put your email and password. <br>
