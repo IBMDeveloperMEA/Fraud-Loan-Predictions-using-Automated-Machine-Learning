@@ -2,7 +2,7 @@
 
 # Workshop Resources
 - Login/Sign Up for [IBM Cloud](https://ibm.biz/MEA-DataAI) <br>
-- Hands-On [Guide]() <br>
+- Hands-On [Guide](https://developer.ibm.com/patterns/fraud-prediction-using-autoai/) <br>
 - [Slides](https://github.com/IBMDeveloperMEA/Fraud-Loan-Predictions-using-Automated-Machine-Learning/blob/main/FraudLoan-AutoAI-Slides.pdf) <br>
 - Workshop [Replay]() <br>
 - Click [Here](https://ibm.biz/BdfMKX) to fill the survey (We really appreciate any feedback :D) <br>
@@ -308,7 +308,7 @@ Check the [ASL FAQ link](http://www.apache.org/foundation/license-faq.html#WhatD
 
 # Workshop Resources
 - Login/Sign Up for [IBM Cloud](https://ibm.biz/MEA-DataAI) <br>
-- Hands-On [Guide]() <br>
+- Hands-On [Guide](https://developer.ibm.com/patterns/fraud-prediction-using-autoai/) <br>
 - [Slides](https://github.com/IBMDeveloperMEA/Fraud-Loan-Predictions-using-Automated-Machine-Learning/blob/main/FraudLoan-AutoAI-Slides.pdf) <br>
 - Workshop [Replay]() <br> 
 - Click [Here](https://ibm.biz/BdfMKX) to fill the survey (We really appreciate any feedback :D) <br>
