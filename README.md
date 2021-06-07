@@ -5,6 +5,16 @@
 - Hands-On [Guide]() <br>
 - [Slides](https://github.com/IBMDeveloperMEA/Fraud-Loan-Predictions-using-Automated-Machine-Learning/blob/main/FraudLoan-AutoAI-Slides.pdf) <br>
 - Workshop [Replay]() <br> <br>
+- Click [Here](https://ibm.biz/BdfMKX) to fill the survey (We really appreciate any feedback :D) <br>
+- Follow Our [Meetup Page](https://www.meetup.com/IBM-Cloud-MEA/) to get updates on our events <br>
+- Check [IBM Developer](https://developer.ibm.com/) to learn and explore a variety technologies and services that you're interested in <br>
+
+There are 3 steps to create your account: <br>
+1- Put your email and password. <br>
+2- You get a verification link with the registered email to verify your account. <br>
+3- Fill the personal information fields. <br>
+
+<img width="1188" alt="Screen Shot 2021-05-31 at 11 25 01 AM" src="https://user-images.githubusercontent.com/15332386/120156441-0769d980-c203-11eb-8cb3-29f4a8d5616a.png">
 
 
 Automation and artificial intelligence (AI) are transforming businesses and will contribute to economic growth via contributions to productivity. They will also help address challenges in areas of healthcare, technology & other areas. At the same time, these technologies will transform the nature of work and the workplace itself. In this code pattern, we will focus on building state of the art systems for churning out predictions which can be used in different scenarios. We will try to predict fraudulent transactions which we know can reduce monetary loss and risk mitigation. The same approach can be used for predicting customer churn, demand and supply forecast and others. Building predictive models require time, effort and good knowledge of algorithms to create effective systems which can predict the outcome accurately. With that being said, IBM has introduced Auto AI which will automate all the tasks involved in building predictive models for different requirements. We will get to see how Auto AI can churn out great models quickly which will save time and effort and aid in faster decision making process.
@@ -311,6 +321,9 @@ Check the [ASL FAQ link](http://www.apache.org/foundation/license-faq.html#WhatD
 - Hands-On [Guide]() <br>
 - [Slides](https://github.com/IBMDeveloperMEA/Fraud-Loan-Predictions-using-Automated-Machine-Learning/blob/main/FraudLoan-AutoAI-Slides.pdf) <br>
 - Workshop [Replay]() <br> <br>
+- Click [Here](https://ibm.biz/BdfMKX) to fill the survey (We really appreciate any feedback :D) <br>
+- Follow Our [Meetup Page](https://www.meetup.com/IBM-Cloud-MEA/) to get updates on our events <br>
+- Check [IBM Developer](https://developer.ibm.com/) to learn and explore a variety technologies and services that you're interested in <br>
 
 # Reference Links
 - https://developer.ibm.com/patterns/fraud-prediction-using-autoai/
