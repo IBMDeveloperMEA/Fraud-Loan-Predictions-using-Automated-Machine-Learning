@@ -9,7 +9,7 @@
 - Follow Our [Meetup Page](https://www.meetup.com/IBM-Cloud-MEA/) to get updates on our events <br>
 - Check [IBM Developer](https://developer.ibm.com/) to learn and explore a variety technologies and services that you're interested in <br>
 
-There are 3 steps to create your account: <br>
+There are 3 steps to create your account on [IBM Cloud](https://ibm.biz/MEA-DataAI): <br>
 1- Put your email and password. <br>
 2- You get a verification link with the registered email to verify your account. <br>
 3- Fill the personal information fields. <br>
