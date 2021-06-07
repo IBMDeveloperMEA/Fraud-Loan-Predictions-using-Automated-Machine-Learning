@@ -15,7 +15,7 @@ When the reader has completed this code pattern, they will understand how to :
 * Ingest the data and initiate the Auto AI process.
 * Build different models using Auto AI and evaluate the performance.
 * Choose the best model and complete the deployment.
-* Generate predictions using the deployed model by making ReST calls.
+* Generate predictions using the deployed model by making REST calls.
 * Compare the process of using Auto AI and building the model manually.
 
 # Architecture Diagram
