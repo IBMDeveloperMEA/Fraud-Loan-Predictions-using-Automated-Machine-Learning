@@ -75,7 +75,7 @@ Follow these steps to setup and run this code pattern using `Auto AI`.
 
 ## 1. Create an account with IBM Cloud
 
-Sign up for IBM [**Cloud**](https://console.bluemix.net/). By clicking on create a free account you will get 30 days trial account.
+Sign up for IBM [**Cloud**](https://ibm.biz/MEA-DataAI). By clicking on create a free account you will get 30 days trial account.
 
 ## 2. Create a new Watson Studio project
 
