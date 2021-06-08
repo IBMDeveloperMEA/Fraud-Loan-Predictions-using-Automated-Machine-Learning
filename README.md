@@ -2,10 +2,10 @@
 
 # Workshop Resources
 - Login/Sign Up for [IBM Cloud](https://ibm.biz/MEA-DataAI) <br>
-- Hands-On [Guide](https://developer.ibm.com/patterns/fraud-prediction-using-autoai/) <br>
+- Hands-On [Guide](https://github.com/IBMDeveloperMEA/Fraud-Loan-Predictions-using-Automated-Machine-Learning) <br>
 - [Slides](https://github.com/IBMDeveloperMEA/Fraud-Loan-Predictions-using-Automated-Machine-Learning/blob/main/FraudLoan-AutoAI-Slides.pdf) <br>
-- Workshop [Replay]() <br>
-- Click [Here](https://ibm.biz/BdfMKX) to fill the survey (We really appreciate any feedback :D) <br>
+- Workshop [Replay](https://www.crowdcast.io/e/ddc-mea2021) <br>
+- Click [Here](https://ibm.biz/MEA-DataAI-Survey) to fill the survey (We really appreciate any feedback :D) <br>
 - Follow Our [Meetup Page](https://www.meetup.com/IBM-Cloud-MEA/) to get updates on our events <br>
 - Check [IBM Developer](https://developer.ibm.com/) to learn and explore a variety technologies and services that you're interested in <br>
 
@@ -311,7 +311,7 @@ Check the [ASL FAQ link](http://www.apache.org/foundation/license-faq.html#WhatD
 - Hands-On [Guide](https://developer.ibm.com/patterns/fraud-prediction-using-autoai/) <br>
 - [Slides](https://github.com/IBMDeveloperMEA/Fraud-Loan-Predictions-using-Automated-Machine-Learning/blob/main/FraudLoan-AutoAI-Slides.pdf) <br>
 - Workshop [Replay]() <br> 
-- Click [Here](https://ibm.biz/BdfMKX) to fill the survey (We really appreciate any feedback :D) <br>
+- Click [Here](https://ibm.biz/MEA-DataAI-Survey) to fill the survey (We really appreciate any feedback :D) <br>
 - Follow Our [Meetup Page](https://www.meetup.com/IBM-Cloud-MEA/) to get updates on our events <br>
 - Check [IBM Developer](https://developer.ibm.com/) to learn and explore a variety technologies and services that you're interested in <br>
 
